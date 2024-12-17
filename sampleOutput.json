@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "Axios",
+      "title": "Mark Zuckerberg's Meta gave $1 million to Trump's inaugural fund  Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHNfVHl6Njl5RVVPRzZpSi14aEJ0TFl0cW1FTlB0QUVIeFh3MndGRm5Ybi1DMHJ1UkYwYzk4YmhiT3NaREpnZnNUSlkyanpyYWVKZG1SOHVkN0lXbnBMbERjSV8zQU1qTFV5bFNJQkR1bXN0WWlhM0xfaVBORFlhVDlDTi0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241212T05:08:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Nvidia Steps Up Hiring in China to Focus on AIDriven Cars  Bloomberg",
+      "description": "Nvidia Corp. has added hundreds of staff in China this year to enhance its research capabilities and focus on new autonomous driving technologies.",
+      "url": "https://www.bloomberg.com/news/articles/20241212/nvidiastepsuphiringinchinatofocusonaidrivencars",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiwDHkohDZJc/v1/1200x800.jpg",
+      "publishedAt": "20241212T04:06:00Z",
+      "content": "Nvidia Corp. has added hundreds of staff in China this year to enhance its research capabilities and focus on new autonomous driving technologies.\r\nThe worlds second most valuable company will end th… [+434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Timothy Smith",
+      "title": "Watch These Tesla Stock Price Levels After First Record High in Three Years  Investopedia",
+      "description": "Tesla shares soared to a new alltime high Wednesday as the stock gained ground for the sixth straight day, extending a huge postelection rally. Monitor these important chart levels.",
+      "url": "https://www.investopedia.com/watchtheseteslastockpricelevelsafterfirstrecordhighinthreeyears8760225",
+      "urlToImage": "https://www.investopedia.com/thmb/87OYHMlm9BJwEFCgTs0z_ZiRzQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TSLAChart6ed535d3814b407aa91f6de45de4c1cc.gif",
+      "publishedAt": "20241212T03:20:42Z",
+      "content": "<ul><li>Tesla shares soared to a new alltime high Wednesday as the stock gained ground for the sixth straight day, extending a huge postelection rally.</li><li>Since breaking out from an ascending … [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": "thewallstreetjournal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Appeals Court Strikes Down Nasdaq’s BoardDiversity Rules  The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/appealscourtstrikesdownnasdaqsboarddiversityrules0a2eb7ee",
+      "urlToImage": null,
+      "publishedAt": "20241212T03:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "thewallstreetjournal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "David Bonderman, PrivateEquity Founder, Dead at 82  The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/davidbondermanprivateequitytpgdeadcae86edd",
+      "urlToImage": null,
+      "publishedAt": "20241212T02:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Stock futures slip after Nasdaq notches record close above 20,000: Live updates  CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xU2drRTQwMFV2ZnpoaUplbEN4UmFFV1BqU1I4VU91SWlOUmNNa1RrQWk2aG9WSzFFaXNKVlJYT3FtZVFNV01KSi15ZU9JUHBmTEZpSHhRNTVoNVNkWnJuUGQzRnZoazVTRm9Bdm41ekswcVEybTRB0gF8QVVfeXFMTmFVRC1hSG84NHJMX2p6RmFOQktLTDlxUUp3R0x3bzhrRzdNYkc2X3F6ZldxbHN1YXkzeTdtbnc3UlJiVDZ1V2ZLcDl5cnI4bUNuUi1rYlhBNmFwdDBod09DYlR3RXB4Mzkwb1dnWVN4ZXNKaGs5Q1FWRlQzSA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241212T01:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jessica Mathews",
+      "title": "With General Motors pulling the plug on Cruise, every American automaker except Tesla has called it quits on robotaxis  Fortune",
+      "description": "Automakers like Ford Motors and Volkswagen had also once made big, billiondollar bets on the future of ridehail—only to walk back those plans later.",
+      "url": "https://fortune.com/2024/12/11/generalmotorspullsplugcruiseteslarobotaxirace/",
+      "urlToImage": "https://fortune.com/imgassets/wpcontent/uploads/2024/12/GettyImages1158000221.jpg?resize=1200,600",
+      "publishedAt": "20241212T01:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Andrew Kessel",
+      "title": "Google Parent Alphabet's Stock Soars to AllTime High  Investopedia",
+      "description": "Google parent Alphabet's shares climbed to a record high Wednesday, a day after the company unveiled a new quantum computing chip known as Willow.",
+      "url": "https://www.investopedia.com/googleparentalphabetstocksoarstoalltimehigh8760015",
+      "urlToImage": "https://www.investopedia.com/thmb/z31E4WlvogJOCPdZFG4CyiDf4f4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages21666714821ed8468f30a5044a7a2b6b2b705e5f58b.jpg",
+      "publishedAt": "20241211T23:51:54Z",
+      "content": "<ul><li>Shares of Google parent Alphabet surged to an alltime high Wednesday after the tech giant unveiled its latest AI model with Gemini 2.0 and U.S. Presidentelect Donald Trump tapped Andrew Fer… [+1473 chars]"
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "FOX 10 News Phoenix",
+      "title": "Meta apologizes for Facebook, Instagram outages  FOX 10 News Phoenix",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ydGE1c2VQLTUyWEtiaU52MC1PTTlyQXptV001al9MeDRtNHdWc3hMUGpqOWZFRmNUcjVTRmdtaHF4b2hpM1N0M2xKU0lheGQ3Z1JWSkJTR3FYN2NzeDJDREMzT3k0OTMxYzNGZDJNaHM4QdIBd0FVX3lxTE1tT2JrMjZETDhraUYyUzlYRlJEako2UVRhWjM2ajF4NXBNUWJiZ09fM2s0bEJ2Vlh3TmtxYWI3SzhXS1FfNzc1cTRkMW85T3J6ejR5ZGRnYzROUmJUd2EzczFsci1RVnBDQ0x0MmNRUDIzUElTX1RF?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T23:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brody Ford",
+      "title": "Adobe Drops After Tepid Outlook Stokes AI Disruption Fears  Yahoo Finance",
+      "description": "(Bloomberg)  Adobe Inc. fell in extended trading after giving a disappointing annual sales outlook, underscoring anxieties that the creative software...",
+      "url": "https://finance.yahoo.com/news/adobegivestepidsalesoutlook213821689.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oqK59t5yjjBYh_fU34A7jw/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk/https://media.zenfs.com/en/bloomberg_technology_68/e941667b8d97022bea0b287c89c3d8cd",
+      "publishedAt": "20241211T23:17:11Z",
+      "content": "(Bloomberg)  Adobe Inc. fell in extended trading after giving a disappointing annual sales outlook, underscoring anxieties that the creative software company may lose business to emerging artificia… [+3116 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Justin Jouvenal",
+      "title": "Supreme Court allows investor lawsuit against chipmaker Nvidia  The Washington Post",
+      "description": "Shareholders filed a classaction lawsuit claiming they were misled by Nvidia, the microchipmaking behemoth that is the world’s secondmostvaluable company.",
+      "url": "https://www.washingtonpost.com/politics/2024/12/11/nvidiashareholderlawsuitsupremecourt/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/TK6IYAW4G365UGVJEP3SXYKRFI.JPG&w=1440",
+      "publishedAt": "20241211T22:43:06Z",
+      "content": "The Supreme Court cleared the way Wednesday for shareholders to pursue a classaction lawsuit claiming they were misled by Nvidia, the microchipmaking behemoth that is the worlds secondmostvaluabl… [+3477 chars]"
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "Decrypt",
+      "title": "Apple Partners with Broadcom to Develop First AI Server Chips, Launch Set for 2026  Decrypt",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2pIOWpaZXJtTmdIVFFXZ29kdEM0aVQ1UGJFanc5VkNwMU44NHhYdUlGTWlWTVRZSXpiamlVN3RucFJOOEt4NE1NeDFPU2JQZU1DX182cy1FZGd1OVg3U2ZOYmk0ODVVUThwVE9uT1NncWNJM3AxSVh4ZUJDbnFUM0VBYkQxdzRhOVRXWmhFTDVqYkdJcTJYWjRRcG5zTnE3amxPYW83M1ZYOHPSAbMBQVVfeXFMTXpKWExqVUJLcTFCcFdYU0N4RFNRdHJGMmhoYV83SmZmRko5Y3NvdFRlRGtSQ0JMYjlEclVJWktwVlF6aDhZeTZNMGMtZTJnc2Y0RnY0M1pPNFg4OUpIdzQxeDJQWTRnZmpJZXJpQTRjRnkzYk5yaXFBcjdaVEMzNFFHRnFmSGcyOGpUQ3VFYm5ZVmVaeWRNZTl5akVKYnFXNHZPX3ZubVdDYllock1VQy10RDQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T22:25:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Missed Nvidia? Buy Oracle and 2 Other BeatenDown AI Stocks Now.  Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/nvidiaaistocksoracleteradyneamdc2208fdf",
+      "urlToImage": null,
+      "publishedAt": "20241211T21:44:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf",
+      "title": "Elon Musk becomes the first person to reach a net worth of $400 billion  CNN",
+      "description": "Elon Musk’s net worth has reached $400 billion, according to Bloomberg, making him the first to ever reach that level of wealth.",
+      "url": "https://www.cnn.com/2024/12/11/business/elonmusk400billionnetworth/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20241119t112000z427445120rc2f4bazdq7jrtrmadp3usatrumpfederalworkers.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "20241211T21:34:00Z",
+      "content": "The richest person in the world just hit an even higher milestone.\r\nElon Musks net worth has reached $400 billion, according to Bloomberg, making him the first person ever to cross that mark.\r\nBehind… [+2296 chars]"
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "USA TODAY",
+      "title": "Man can't find second winning lottery ticket, sues over $394 million jackpot, lawsuit says  USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0d2ODdrQUZyS0JwMkgxWjhLU3JfYjl6ZDh5S1JkQ0lHY2lzakVJaklTUUhLZXFUeXhTWm9oT0Vua1Q3RHFFTmxsdHpLaEsteE5mM2FYT056OVk0MF9kbUhGdld2TUREUmNzMl9GYXpxN2s0dW1ua1g0SDVjSjNXeS15a1ItZzVLYXFBUHlkV2tud0xIYmpzblYxb1QtOEV0WFNNQ1BLb2dKRll5bzk5emhsdEE4ZUVt?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T21:28:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "The Intercept",
+      "title": "How to Protect Yourself From the Salt Typhoon Hack, No Matter What the FBI Says  The Intercept",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52b2QtX1R6TFlMcHRxMTVYNHVTTmI3SWM1MjdOU2pCdmdvVTUtNjc5eFVmRTJ4djFTak5PLTEwUk13eTlSOC1DVHR6MllybTFBcnJacEktMmJMeTVOUlhTR1dieWVhTWI3RzVKbUViemVrMWxFUDZLS3hB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T20:54:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Hayden Buckfire",
+      "title": "Alphabet's Quantum Willow Chip Wows Analyst: Google At The 'Leading Edge Of Technology Innovation'  Benzinga",
+      "description": "Alphabet's quantum computing technology, Willow, has impressed Wall Street and could provide a significant longterm advantage. Stock up 10%.",
+      "url": "https://www.benzinga.com/24/12/42447332/alphabetsquantumwillowchipwowsanalystgoogleattheleadingedgeoftechnologyinnovation",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/12/11/AlphabetIncClassCShares.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "20241211T20:33:43Z",
+      "content": "Alphabet Inc‘s GOOGGOOGL foray into quantum computing technology with Willow has found Wall Street admirers.\r\nThe Alphabet Analyst: On Tuesday, Bank of America analyst Justin Post issued a note on Al… [+1255 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sasha Rogelberg",
+      "title": "Returntooffice mandates are associated with an exodus of high performers, research finds  Fortune",
+      "description": "When S&P 500 companies discouraged remote working, skilled employees quit—leaving hardtofill vacancies for employers.",
+      "url": "https://fortune.com/2024/12/11/returntoofficemandateemployeesstudy/",
+      "urlToImage": "https://fortune.com/imgassets/wpcontent/uploads/2024/12/GettyImages2188743978e1733939364626.jpg?resize=1200,600",
+      "publishedAt": "20241211T19:29:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "Benzinga",
+      "title": "Super Micro Computer Teeters On Edge Of Nasdaq 100: Can xAI, Nvidia Help Stabilize Trajectory?  Benzinga",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTZuM1AzQ0lCVWdndUhPSTZzTWdsZzZmd1BhRXk5T1J1Ulc3MFdXVE14MlJETGU5OHN4TGdKZnVsUXZaM2hRNWN5dWhqRV9QMW5naURmaFlVa3gwN3NKeGNCblR3NDg0ZGJSanNEWUhfdUNsVzhncTROSi1RbFkxeWtHaC1EekRHWXp1YzVGOV9pbzVCVlppVThudUNoZFZzNnB5eVgwZm55UQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T19:25:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "googlenews",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Budget deficit swells in November, pushing fiscal 2025 shortfall 64% higher than a year ago  CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkpRai1uX1NIcG1CMmIyeEtUOW5GTlljbDVyWFl0Y2Z1YlpPVG1RQ1pIbkNnZDBaZ2QxelViLUIzdDNIMUVCVVhkNTQyTmdTQUdRUXliYkxtTVdOOUFzVkd0cXUxVFNkaFd1bnYtZXpZcXBHcTlFV1hUSlJlMjZvSjNrRDlnT1F6YjB4UVZXdXRhMlU3RG8wOEV4SEw0b01WWDlFQ042VXAtOFE5Uk9mOU9zVlRZbjBNU1gzQjNQb0pkY2QyZkU3RWYzS2N6Z9IB0wFBVV95cUxOb3pzSkNOa2J5Qmtzckx6WFh4ekZxanlsQ1FoeDk4RU5YbTRmQ3VhY0FwZno1V3FaVzY5Uk0xbW5qZ2d1VmZKWXhWTlEtdnI4bTBfQjViNG55NmN2bk5hV0NyTDI0Y1lCS2hYUk5BUXRQenNSSDR1R3F6blY0UGVBX29ZZG1WX25TZ1pKTGJ6a0J5UGpDbHE5Z01QZTdGZmtlWDgyLUZDbk9JZnRxdEtHUUc5azM0em1TZW1lVzlRWlZ1dHhEazV0UFRHVzhJalVxT01j?oc=5",
+      "urlToImage": null,
+      "publishedAt": "20241211T19:08:40Z",
+      "content": null
+    }
+  ]
+}
