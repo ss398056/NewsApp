@@ -53,7 +53,7 @@ export class News extends Component {
   async componentDidMount() {
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=${this.props.apiKey}&category=${this.props.category}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     //let url = `https://newsapi.org/v2/everything?q=india&pageSize=${this.props.pageSize}&apiKey=89bf461ea3da47bc82667e8c99661faf`;
-    let data = await fetch(url);
+    let data = await fetch(url, {headers: { "Upgrade-Insecure-Requests": "1" }});
     let parseData = await data.json();
     //console.log(parseData);
     this.setState({
@@ -102,7 +102,7 @@ export class News extends Component {
     this.setState({  });
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=${this.props.apiKey}&category=${this.props.category}&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
     //let url = `https://newsapi.org/v2/everything?q=india&pageSize=${this.props.pageSize}&apiKey=89bf461ea3da47bc82667e8c99661faf`;
-    let data = await fetch(url);
+    let data = await fetch(url, {headers: { "Upgrade-Insecure-Requests": "1" }});
     let parseData = await data.json();
     //console.log(parseData);
     this.setState({
