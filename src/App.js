@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
     const pageSize = 9;
     const apiKey = "89bf461ea3da47bc82667e8c99661faf";
-    console.log(apiKey);
+    //console.log(apiKey);
     return (
       <>
       <BrowserRouter>
