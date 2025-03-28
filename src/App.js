@@ -8,8 +8,8 @@ import { BrowserRouter, Routes, Route } from "react-router";
 export default class App extends Component {
   render() {
     const pageSize = 9;
-    const apiKey = process.env.REACT_APP_NEWS_API_KEY;
-    //console.log(apiKey);
+    const apiKey = "89bf461ea3da47bc82667e8c99661faf";
+    console.log(apiKey);
     return (
       <>
       <BrowserRouter>
